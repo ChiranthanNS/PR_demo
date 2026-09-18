@@ -1,1 +1,1 @@
-This is sample txt in B2 branch
+This is sample text in B2 branch
